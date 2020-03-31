@@ -5,7 +5,7 @@ A super light template for creating your own TV station!
 2. Clone or download.
 3. Change "Springfield" to the name of your community. Unless you live in Springfield.
 4. Do what you want with the tagline.
-5. Go to api.video and click "Sign up for free". 
+5. Go to [api.video](api.video) and click "Sign up for free". 
 6. Click "My live stream".
 7. Choose a name for your stream. This **will** be visible to your viewers. Choose wisely (you can change this later).
 8. You will be magically transported to a dashboard! Click on your livestream.
